@@ -1,3 +1,4 @@
-This file is created for the conflict resolution example within
-the branch feature4
-That's all i have to say.
+This file is created for understanding of conflict.
+
+this one lies in the feature3
+
